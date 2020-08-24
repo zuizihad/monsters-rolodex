@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Materializecss from '../node_modules/materialize-css/dist/css/materialize.min.css';
+import Materializejs from '../node_modules/materialize-css/dist/js/materialize.min.js';
 
 ReactDOM.render(
   <React.StrictMode>
